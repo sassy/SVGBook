@@ -29,7 +29,7 @@ SVGには独自のスタイルがあります。代表的なのがfill と strok
 
 ## Circle要素
 
-中心座標\(cx, cy\)と半径 \(r\)を指定します。
+円を中心座標\(cx, cy\)と半径 \(r\)を指定して描画します。
 
 {% code-tabs %}
 {% code-tabs-item title="circle.svg" %}
@@ -41,6 +41,12 @@ SVGには独自のスタイルがあります。代表的なのがfill と strok
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+![&#x5186;&#x306E;&#x63CF;&#x753B;&#x7D50;&#x679C;](https://lh6.googleusercontent.com/Qm11EbS3phHxtCyjeMMRT9aqpp6WMgdRlcTFja3gx5s7VElnH1dwn8dhADO4iV9TNgaTHoElfJyMenumH65a5oRevxoM643jzg1U7nX1NqIB2ch5fITEsoeFj76610nbNiJhy0SG)
+
+
+
+
 
 
 
