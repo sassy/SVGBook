@@ -1,7 +1,9 @@
 # Table of contents
 
-* [SVGの紹介](README.md)
+* [本書について](README.md)
 * [SVGについて](about.md)
 * [SVGの基本](base.md)
 * [SVGの仕様](spec.md)
+* [SVGの仕様](svgno.md)
+* [SVGが扱うグラフィック要素](untitled-2.md)
 
