@@ -6,4 +6,6 @@
 * [SVGの仕様](spec.md)
 * [SVGの仕様](svgno.md)
 * [SVGが扱うグラフィック要素](untitled-2.md)
+* [ベクター画像](bekut.md)
+* [基本画像](untitled.md)
 
